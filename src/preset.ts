@@ -9,7 +9,7 @@ export const preset: Preset = defineConfig({
         values: "spacing",
         transform: (value) => ({
           "& > * + *": {
-            ml: value,
+            marginLeft: value,
           },
         }),
       },
@@ -18,7 +18,7 @@ export const preset: Preset = defineConfig({
         values: "spacing",
         transform: (value) => ({
           "& > * + *": {
-            mt: value,
+            marginTop: value,
           },
         }),
       },
