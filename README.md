@@ -56,6 +56,10 @@ export function Page() {
 }
 ```
 
+## Attributions
+
+- [Chakra](https://github.com/chakra-ui) team for creating [🐼 PandaCSS](https://panda-css.com/)
+
 [contributors-shield]: https://img.shields.io/github/contributors/milandekruijf/pandacss-preset-space.svg?style=for-the-badge
 [contributors-url]: https://github.com/milandekruijf/pandacss-preset-space/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/milandekruijf/pandacss-preset-space.svg?style=for-the-badge
