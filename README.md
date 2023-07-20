@@ -6,7 +6,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# More [🐼 PandaCSS](https://panda-css.com/) space utilities
+# More 🐼 PandaCSS space utilities
 
 Add the missing `spaceX` and `spaceY` utilities to [🐼 PandaCSS](https://panda-css.com/).
 
