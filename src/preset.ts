@@ -26,7 +26,6 @@ export const preset: Preset = defineConfig({
           };
         },
       },
-      
     },
   },
 });
